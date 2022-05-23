@@ -33,18 +33,6 @@ html {
     scroll-behavior: smooth;
 }
 
-html::-webkit-scrollbar {
-    width: 1rem;
-}
-
-html::-webkit-scrollbar-track {
-    background: transparent;
-}
-
-html::-webkit-scrollbar-thumb {
-    background: var(--black);
-}
-
 section,
 .footer {
     padding: 5rem 9%;
